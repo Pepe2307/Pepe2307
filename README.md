@@ -6,6 +6,9 @@
 Como desarrollador web, mi experiencia se centra en la creación y mantenimiento de sitios web altamente funcionales y atractivos. Soy experto en habilidades como el manejo de HTML, CSS, JavaScript, React y el manejo de bases de datos con MySql.
 
 
+<div align="center">
+    <img src="./logo_centrado_perfecto.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 ## Techstack
 <img src = "https://img.icons8.com/color/2x/html-5.png" width="50px"/> <img src = "https://img.icons8.com/color/2x/css3.png" width="50px"/>
@@ -33,6 +36,8 @@ https://github.com/Pepe2307/Finished_React-E-commerce
 ## Contacto
 
 Pablopaez2307@gmail.com
+<br/>
+<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-paez-t/)
   
  
