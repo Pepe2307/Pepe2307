@@ -25,7 +25,7 @@ Como desarrollador web, mi experiencia se centra en la creación y mantenimiento
 ## Mis proyectos favoritos:
 
 Proyecto web para poder dicatar mejor mis clases con un recopilador de todas las presentaciones:
-https://github.com/Pepe2307/Finished_React-WebProfesor
+https://github.com/Pepe2307/Finished_React-WebProfesor LIVE: https://san-miguel-capacitaciones-pablo.vercel.app/
 
 Proyecto E-Commerce en React hecho para Coderhouse como proyecto final con maxima calificacion:
 https://github.com/Pepe2307/Finished_React-E-commerce
