@@ -33,6 +33,9 @@ https://github.com/Pepe2307/Finished_React-WebProfesor LIVE: https://san-miguel-
 Proyecto E-Commerce en React hecho para Coderhouse como proyecto final con maxima calificacion:
 https://github.com/Pepe2307/Finished_React-E-commerce
 
+Proyecto de aplicacion de clima en React hecho por gusto personal:
+https://github.com/Pepe2307/Clima_React LIVE: https://pablo-clima.vercel.app/
+
 ## Contacto
 
 Pablopaez2307@gmail.com
