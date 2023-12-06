@@ -1,9 +1,14 @@
 # Buenas, soy Pablo "Pepe" Paez!👋🦝
 
-### Desarrollador Web - Programador - Profesor
+### Desarrollador Web FULLSTACK - Programador - Profesor
 
 
-Como desarrollador web, mi experiencia se centra en la creación y mantenimiento de sitios web altamente funcionales y atractivos. Soy experto en habilidades como el manejo de HTML, CSS, JavaScript, React y el manejo de bases de datos con MySql.
+Mi experiencia se centra en la creación y mantenimiento de sitios web altamente funcionales y atractivos.
+<br/>
+<br/>
+Soy experto en habilidades *FULLSTACK* como por ejemplo:
+<br/>
+HTML - CSS - JavaScript - React - MySql - PHP
 
 
 <div align="center">
@@ -23,23 +28,42 @@ Como desarrollador web, mi experiencia se centra en la creación y mantenimiento
 - 🌱 Constantemente aprendiendo mas tecnologias
 
 
-### Pueden checkear mi ✨ [Portfolio](https://google.com/) ✨
+# Pueden checkear mi ✨ [Portfolio Web](https://pablo-paez-curriculum.vercel.app/) ✨
 <hr/>
 
-## Mis proyectos favoritos:
+## Algunos de mis proyectos:
 
-Proyecto web para poder dicatar mejor mis clases con un recopilador de todas las presentaciones:
-https://github.com/Pepe2307/Finished_React-WebProfesor LIVE: https://san-miguel-capacitaciones-pablo.vercel.app/
+💻Pagina Web Personal - Curriculum:
+<br/>
+REPO: https://github.com/Pepe2307/Curriculum_React
+<br/>
+LIVE: https://pablo-paez-curriculum.vercel.app/
+<br/>
 
-Proyecto E-Commerce en React hecho para Coderhouse como proyecto final con maxima calificacion:
+
+💻Proyecto web para poder dicatar mejor mis clases con un recopilador de todas las presentaciones:
+<br/>
+REPO: https://github.com/Pepe2307/WebProfesor_React
+<br/>
+LIVE: https://san-miguel-capacitaciones-pablo.vercel.app/
+<br/>
+
+
+💻Proyecto de aplicacion de clima en React hecho por gusto personal:
+<br/>
+REPO: https://github.com/Pepe2307/Clima_React
+<br/>
+LIVE: https://pablo-clima.vercel.app/
+<br/>
+
+💻Proyecto E-Commerce en React hecho para Coderhouse como proyecto final con maxima calificacion:
+<br/>
 https://github.com/Pepe2307/Finished_React-E-commerce
-
-Proyecto de aplicacion de clima en React hecho por gusto personal:
-https://github.com/Pepe2307/Clima_React LIVE: https://pablo-clima.vercel.app/
+<br/>
 
 ## Contacto
 
-Pablopaez2307@gmail.com
+Mi Mail📨 Pablopaez2307@gmail.com
 <br/>
 <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-paez-t/)
