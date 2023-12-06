@@ -8,7 +8,7 @@ Mi experiencia se centra en la creación y mantenimiento de sitios web altamente
 <br/>
 Soy experto en habilidades *FULLSTACK* como por ejemplo:
 <br/>
-HTML - CSS - JavaScript - React - MySql - PHP
+HTML - CSS - JavaScript - React - MySql - PHP - APIs - Linux
 
 
 <div align="center">
