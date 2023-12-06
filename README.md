@@ -17,6 +17,7 @@ Como desarrollador web, mi experiencia se centra en la creación y mantenimiento
 <img src = "https://img.icons8.com/plasticine/2x/react.png" width="50px"/>
 <img src = "https://img.icons8.com/color/344/mysql-logo.png" width="50px"/>
 <img src = "https://img.icons8.com/color/344/python--v1.png" width="50px"/>
+<img src = "https://img.icons8.com/color/344/php" width="50px"/>
 
 
 - 🌱 Constantemente aprendiendo mas tecnologias
