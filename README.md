@@ -1,31 +1,36 @@
 # Buenas, soy Pablo "Pepe" Paez!👋🦝
 
-### Desarrollador Web FULLSTACK - Programador - Profesor
+### FULLSTACK Developer - Orientado en BACKEND - Profesor
 
 
-Mi experiencia se centra en la creación y mantenimiento de sitios web altamente funcionales y atractivos.
+Mi experiencia es .....
 <br/>
-<br/>
-Soy experto en habilidades *FULLSTACK* como por ejemplo:
-<br/>
-HTML - CSS - JavaScript - React - MySql - PHP - APIs - Linux
+<br/>  
 
 
 <div align="center">
-    <img src="./logo_centrado_perfecto.svg" width="400" height="400" alt="css-in-readme">
+    <img src="./logo_centrado_perfecto.svg" width="200" height="200" alt="css-in-readme">
 </div>
 
 ## Techstack
+
+Soy experto en tecnologías de desarrollo tanto Frontend como Backend con React y Laravel
+<br/>
+HTML - CSS - JavaScript - React <br/>
+PHP - MySql - LARAVEL - APIs - Postman - Docker
+
+
 <img src = "https://img.icons8.com/color/2x/html-5.png" width="50px"/> <img src = "https://img.icons8.com/color/2x/css3.png" width="50px"/>
 <img src = "https://img.icons8.com/color/2x/javascript.png" width="50px"/>
 <img src = "https://img.icons8.com/fluency/2x/node-js.png" width="50px"/>
 <img src = "https://img.icons8.com/plasticine/2x/react.png" width="50px"/>
-<img src = "https://img.icons8.com/color/344/mysql-logo.png" width="50px"/>
 <img src = "https://img.icons8.com/color/344/python--v1.png" width="50px"/>
-<img src = "https://img.icons8.com/color/344/php" width="50px"/>
+<br/>
+<img src = "https://img.icons8.com/?size=100&id=YrKoPXb4jv9l&format=png&color=000000" width="50px" />
+<img src = "https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000" width="50px" />
+<img src = "https://img.icons8.com/color/344/mysql-logo.png" width="50px"/>
 
-
-- 🌱 Constantemente aprendiendo mas tecnologias
+- 🌱 Especializacion en Laravel
 
 
 # Pueden checkear mi ✨ [Portfolio Web](https://pablo-paez-curriculum.vercel.app/) ✨
