@@ -6,7 +6,7 @@
 
 
 <div align="center">
-    <img src="./logo_centrado_perfecto.svg" width="200" height="200" alt="css-in-readme">
+    <img src="./logo_solo_sin_fondo.png" width="200" height="200" alt="css-in-readme">
 </div>
 
 ## Techstack
