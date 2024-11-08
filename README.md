@@ -1,6 +1,9 @@
-# Buenas, soy Pablo "Pepe" Paez!👋🦝
+# Developer: Pablo "Pepe" Paez!👋🦝
 
-### FULLSTACK Developer - Orientado en ✨BACKEND✨ - Profesor IT
+### 💻 FULLSTACK Developer - Specializing in ✨BACKEND✨ <br/> 👨‍🏫 IT Professor
+### <img src = "https://img.icons8.com/?size=100&id=15532&format=png&color=000000" width="50px"/> C2 Proficient <br/> <img src = "https://img.icons8.com/?size=100&id=tMbrbkhuqKJ0&format=png&color=000000" width="50px"/> Nativo
+
+
 
 <br/>  
 
@@ -11,7 +14,6 @@
 
 ## Techstack
 
-Soy experto en tecnologías de desarrollo tanto Frontend como Backend
 
  <br/>
 
@@ -39,11 +41,16 @@ Backend: PHP - LARAVEL - MySql - APIs - Postman - Docker - LINUX - UBUNTU<br/>
 
 
 
-- 🌱 Especializacion en Laravel
+- 🌱 Specializing in Laravel
 
-
-# Pueden checkear mi ✨ [Portfolio Web](https://pablo-paez-curriculum.vercel.app/) ✨
+<br/>
+<br/>
 <hr/>
+
+# My ✨ [Portfolio Web](https://pablo-paez-curriculum.vercel.app/) ✨
+
+<br/>
+
 
 ## Algunos de mis proyectos:
 
